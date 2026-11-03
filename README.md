@@ -15,4 +15,4 @@ MSc in Statistics student at **EPFL** (École Polytechnique Fédérale de Lausan
 ### Connect
 
 - **LinkedIn**: [francesco-verni-profile](https://www.linkedin.com/in/francesco-verni-profile)
-- **Email**: [francesco.verni@outlook.it](mailto:francesco.verni@outlook.it)
+- **Email**: [francesco.verni@outlook.it](mailto:francesco.verni@epfl.ch)
