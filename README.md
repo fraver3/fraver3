@@ -8,7 +8,7 @@ MSc in Statistics student at **EPFL** (École Polytechnique Fédérale de Lausan
 
 - **Statistical Machine Learning**: Probabilistic modeling, statistical inference, and deep learning foundations.
 - **Data Science & Analytics**: End-to-end data pipelines, predictive modeling, and applied statistics.
-- **Languages & Tools**: Python (`PyTorch`, `NumPy`, `SciPy`, `scikit-learn`, `pandas`), R, SQL, Git, Linux.
+- **Languages & Tools**: Python (`PyTorch`, `NumPy`, `SciPy`, `scikit-learn`, `pandas`), R, SQL, Git.
 
 ---
 
